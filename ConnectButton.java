@@ -12,7 +12,7 @@ import javafx.scene.control.Button;
 
 /**
  *
- * @author Sumathy
+ * @author Solan
  */
 public class ConnectButton extends Button{
     private int row;
