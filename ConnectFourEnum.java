@@ -7,7 +7,7 @@
 /**
  * ConnectFourEnum contains the enumerator for ConnectFourGame
  *
- * @author Schramm
+ * @author Solan
  */
 public enum ConnectFourEnum {
     IN_PROGRESS("Game in Progress"), RED("Red"), BLACK("Black"), DRAW("It's a draw!"), EMPTY(" ");
